@@ -1,7 +1,7 @@
 # Project Depression Rate Prediction - Project will be done by Cu-Coders Summer of Code Company interns
 ABOUT MAN-KI-BAAT-PVT.LTD:
 
-Man Ki Baat
+*Man Ki Baat
 
 BACKGROUND - IDEA : MAN KI BAAT is a artificially intelligent pocket doctor that functions as pocket supplement to detect, predict and prevent Depression. The idea of solving this typical problem comes from a WHO report that every year 4.4 billion of people in the world are dying by suicide the only cause is depression !! When ever a person feels low he or she first cant able to understand weather am depressed or stressed or what the stuff is happening with me ? They take their own time of self analysis or realisation ,the situation gets worsens in that time. As the time passes the mind set up pass into a cronix stage. Finally when the situation goes out of hand they use to refer to a doctor .Then the concerned psychiatrist or psychologist takes their own period to diagonize the problem ! Actually by the time the situation gets into a suicide ! No software solution is present till date to this problem. But we are living in the world of AI ,So I developed a solution to it ,to create such a AI doctor that will prevent suicide by predicting, detecting and supporting the users by right time . This application is mainly developed on the sight of the present scenario that in this era we all are having depression for any reason ,job ,family ,relationship or of any reason !
 
